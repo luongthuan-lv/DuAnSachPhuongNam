@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#40c4ff</color>
+    <color name="colorPrimaryDark">#0094cc</color>
+    <color name="colorAccent">#82f7ff</color>
+    <color name="splash_bg">#E3F2DA</color>
+    <color name="btn_red">#DF2B2B</color>
+    <color name="forgotpass">#000000</color>
+    <color name="login">#ffffff</color>
+    <color name="or">#090909</color>
+</resources>
